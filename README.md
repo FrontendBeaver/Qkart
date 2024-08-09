@@ -2,7 +2,7 @@ QKart - E-commerce Application
 
 QKart is an E-commerce application that offers a wide variety of products for customers to choose from. This repository contains the code for the QKart web application, showcasing the implementation of various features, including authentication, shopping cart, checkout, product display, and user registration.
 
-Live Website Link
+Live Website Link: https://qkart-b003gyxof-janani1727s-projects.vercel.app/
 
 Project Overview
 During the course of this project, we have implemented the following core features:
@@ -22,14 +22,16 @@ Registration-Login Flow: Set up routing using the React Router library to redire
 User Registration: Implemented the registration feature, including backend API integration and input validation for the registration form to display informative error messages.
 
 QKart Component Architecture
-![image](https://github.com/user-attachments/assets/52c0e0ca-cb1a-403c-94d1-257daeabcf16)
+![image](https://github.com/user-attachments/assets/cbb379e2-03b2-404f-9ff3-bfda4eea2200)
 
-QKart Component Architecture
+
 
 QKart Shopping Interface (Products Page)
-![image](https://github.com/user-attachments/assets/6f4038e9-8938-4011-896b-ea641f068df8)
+![image](https://github.com/user-attachments/assets/4173cc5e-7018-4e2c-9c01-f1d5b78d5f81)
 
-QKart Shopping Interface
+![image](https://github.com/user-attachments/assets/65e0a478-d825-4f41-a562-40d50cb2ca62)
+
+
 
 Deployment
 Deploy the QKart Website
@@ -37,23 +39,20 @@ The QKart React app has been deployed to Netlify and configured to support visit
 
 Skills used: Deployment, Netlify
 
-Display Products and Implement Search Feature
-![image](https://github.com/user-attachments/assets/ff50191f-5830-4801-ab8c-bb1dc2aa47a9)
 
 
-QKart Checkout Page
-![image](https://github.com/user-attachments/assets/202a6a0e-16b9-4e9b-93cc-bface6f1ec79)
 
 
 Skills used: Keyword Search, Debouncing, Material UI Grid
 
 Implement Registration-Login Flow and Set Up Routing
 Request-Response Cycle for QKart User Signup and Login
-![image](https://github.com/user-attachments/assets/5da51595-5880-4ea5-a173-8ccaa4f9d3b7)
+
 
 
 User Flow on Website for Signup and Login
-![image](https://github.com/user-attachments/assets/2cb33fe4-dc7c-40bf-8149-67b7717bbff8)
+![image](https://github.com/user-attachments/assets/f36df39e-97b6-4379-8a2a-8bd20bead4f6)
+
 
 
 Skills used: React Router, Material UI, localStorage, Controlled Components, Conditional Rendering
